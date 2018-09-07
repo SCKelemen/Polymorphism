@@ -1,0 +1,11 @@
+/Users/Kelemen/Desktop/Teaching/polymorphism/bin/Debug/netcoreapp2.0/polymorphism.deps.json
+/Users/Kelemen/Desktop/Teaching/polymorphism/bin/Debug/netcoreapp2.0/polymorphism.runtimeconfig.json
+/Users/Kelemen/Desktop/Teaching/polymorphism/bin/Debug/netcoreapp2.0/polymorphism.runtimeconfig.dev.json
+/Users/Kelemen/Desktop/Teaching/polymorphism/bin/Debug/netcoreapp2.0/polymorphism.dll
+/Users/Kelemen/Desktop/Teaching/polymorphism/bin/Debug/netcoreapp2.0/polymorphism.pdb
+/Users/Kelemen/Desktop/Teaching/polymorphism/obj/Debug/netcoreapp2.0/polymorphism.csprojResolveAssemblyReference.cache
+/Users/Kelemen/Desktop/Teaching/polymorphism/obj/Debug/netcoreapp2.0/polymorphism.csproj.CoreCompileInputs.cache
+/Users/Kelemen/Desktop/Teaching/polymorphism/obj/Debug/netcoreapp2.0/polymorphism.AssemblyInfoInputs.cache
+/Users/Kelemen/Desktop/Teaching/polymorphism/obj/Debug/netcoreapp2.0/polymorphism.AssemblyInfo.cs
+/Users/Kelemen/Desktop/Teaching/polymorphism/obj/Debug/netcoreapp2.0/polymorphism.dll
+/Users/Kelemen/Desktop/Teaching/polymorphism/obj/Debug/netcoreapp2.0/polymorphism.pdb
